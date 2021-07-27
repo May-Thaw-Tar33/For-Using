@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+/*This is about me
+This is for using*/
+
+int main(){
+
+string myAge="18."
+string myUni="TU Hmawbi.";
+string myHeight="5'5".";
+
+cout<< "I am May Thaw Tar." << endl << I am << myAge << endl << My height is << myHeight << endl << I am a student from << myUni <<; 
+return 0;
